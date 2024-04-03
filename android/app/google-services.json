@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997071369157",
+    "project_id": "weed-club-db",
+    "storage_bucket": "weed-club-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997071369157:android:e75308097a243cb8fed1ac",
+        "android_client_info": {
+          "package_name": "com.example.weed_club"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsK2nH3MFlPtceFEDy89BJklvx3U1I3ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997071369157:android:52e58200b03f0c54fed1ac",
+        "android_client_info": {
+          "package_name": "com.oinus.weed_club.weed_club"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsK2nH3MFlPtceFEDy89BJklvx3U1I3ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
